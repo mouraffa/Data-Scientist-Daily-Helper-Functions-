@@ -66,4 +66,4 @@ The `general_helpers.py` file encompasses a variety of general-purpose functions
 
 1. Clone this repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/data-scientist-daily-helpers.git
+   git clone https://github.com/mouraffa/Data-Scientist-Daily-Helper-Functions-.git
